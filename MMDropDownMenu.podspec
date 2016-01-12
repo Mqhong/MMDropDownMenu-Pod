@@ -8,7 +8,7 @@ s.author = { "Mqhong" => "617257112@qq.com" }
 s.source = { :git => 'https://github.com/Mqhong/MMDropDownMenu.git', :tag => s.version.to_s }
 s.requires_arc = true
 s.ios.deployment_target = '8.1'
-s.source_files = 'Pod/Classes/**/*'
+s.source_files = 'Pod/Classes/**/*.{h,m}'
 s.frameworks = 'UIKit'
 s.resource_bundles = {
 'MMDropDownView' => ['Pod/Assets/*.png']

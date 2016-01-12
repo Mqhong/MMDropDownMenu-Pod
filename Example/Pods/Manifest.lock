@@ -1,0 +1,20 @@
+PODS:
+  - Expecta (1.0.5)
+  - MMDropDownMenu (1.0.0)
+  - Specta (1.0.5)
+
+DEPENDENCIES:
+  - Expecta
+  - MMDropDownMenu (from `../`)
+  - Specta
+
+EXTERNAL SOURCES:
+  MMDropDownMenu:
+    :path: ../
+
+SPEC CHECKSUMS:
+  Expecta: e1c022fcd33910b6be89c291d2775b3fe27a89fe
+  MMDropDownMenu: 7102ccb1c0d94883a7576e071bccda0584265a8f
+  Specta: ac94d110b865115fe60ff2c6d7281053c6f8e8a2
+
+COCOAPODS: 0.39.0
