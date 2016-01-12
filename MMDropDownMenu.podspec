@@ -7,7 +7,7 @@ s.homepage = 'https://github.com/Mqhong/MMDropDownMenu'
 s.author = { "Mqhong" => "617257112@qq.com" }
 s.source = { :git => 'https://github.com/Mqhong/MMDropDownMenu.git', :tag => s.version.to_s }
 s.requires_arc = true
-s.ios.deployment_target = '8.0'
+s.ios.deployment_target = '8.1'
 s.source_files = 'Pod/Classes/**/*'
 s.frameworks = 'UIKit'
 s.resource_bundles = {
